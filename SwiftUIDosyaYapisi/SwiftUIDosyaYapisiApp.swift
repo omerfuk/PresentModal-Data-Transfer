@@ -15,3 +15,5 @@ struct SwiftUIDosyaYapisiApp: App {
         }
     }
 }
+
+
